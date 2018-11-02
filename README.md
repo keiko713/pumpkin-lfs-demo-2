@@ -1,6 +1,6 @@
 # pumpkin-lfs-demo
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/keiko713/pumpkin-lfs-demo)
 
 1. click above Deploy to Netlify button!
    - this will fork the repo and create the Netlify site
